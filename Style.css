@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#animalList {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+#animalList div {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+}
+
+#animalDetails {
+    text-align: center;
+}
+
+#resetVotes {
+    padding: 10px;
+    background-color: #f00;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}

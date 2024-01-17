@@ -1,46 +1,45 @@
-# Flatacuties# Flatacuties
+# Flatacuties# 
 
 This is a web app that allows users to vote for the cutest animals.It he;ps users to view of animal names ,seeing the details of each animal and also to vote for their favorites.
 
 ## setting up the Project
 
 You need to set up and start local the server
-1.Create a db.json file in your project directory with the sample data.
-2.Start the JSON DB server by running the following command(json-server --watch db.json)
-3.Test your server by visiting http://localhost:3000/characters in your browser.
-4.You should see the character data.
-5.Clone the repository to your local machine.
+1. Create a db.json file in your project directory with the sample data.
+2. Start the JSON DB server by running the following command(json-server --watch db.json)
+3. Test your server by visiting http://localhost:3000/characters in your browser.
+4. You should see the character data.
+5. Clone the repository to your local machine.
 
 ## How to  run
 
-1.Create a new branch for your work
-2.Implement your changes.
-3.Test your changes and ensure they work correctly.
-
+1. Create a new branch for your work
+2. Implement your changes.
+3. Test your changes and ensure they work correctly.
 
 ## Usage
 
-1.Viewing animal details
-2.Showing the list of animal names
-3.voting for animals
+1. Viewing animal details
+2. Showing the list of animal names
+3. voting for animals
 
 ## Features
 
-1.Displaying the list of animal names.
-2.Viewing details for information about each animal.
-3.Voting for your favorite animal.
-4.Reseting votes to 0 (bonus feature).Development
-To work on this project, follow these steps:
+1. Displaying the list of animal names.
+2. Viewing details for information about each animal.
+3. Voting for your favorite animal.
+4. Reseting votes to 0 (bonus feature).Development
+* To work on this project, follow these steps:
 
 ## Development
 
-1.Clone the repository to your local machine.
-2.Create a new branch for your work.
-3.Implement your changes.
-4.Test your changes and ensure they work correctly.
-5.Commit your changes with descriptive commit message.
-6.Push your branch to the repository
-7.Create a pull request to merge your changes into the main branch.
+1. Clone the repository to your local machine.
+2. Create a new branch for your work.
+3. Implement your changes.
+4. Test your changes and ensure they work correctly.
+5. Commit your changes with descriptive commit message.
+6. Push your branch to the repository
+7. Create a pull request to merge your changes into the main branch.
 
 
 ## Contirbuting

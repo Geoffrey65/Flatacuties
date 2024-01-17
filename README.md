@@ -1,4 +1,4 @@
-# Flatacuties# 
+# Flatacuties
 
 This is a web app that allows users to vote for the cutest animals.It he;ps users to view of animal names ,seeing the details of each animal and also to vote for their favorites.
 
